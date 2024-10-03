@@ -76,4 +76,4 @@ const removeLogs = async () => {
 };
 
 addLogs();
-removeLogs();
+// removeLogs();
